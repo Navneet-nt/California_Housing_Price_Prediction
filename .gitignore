@@ -1,0 +1,71 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment directories
+env/
+venv/
+ENV/
+VENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files
+*.csv
+*.xls
+*.xlsx
+*.json
+*.db
+*.h5
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Machine learning specific files
+*.model
+*.joblib
+*.pkl
+*.sav
+
+# Python egg and packaging
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Test and Coverage
+htmlcov/
+.tox/
+.nox/
+.coverage
+coverage.xml
+*.cover
+*.py,cover
+.cache
+
+# Jupyter Notebook outputs
+*.out
+
+# IDE specific files
+.vscode/
+.idea/
+*.iml
+
+# TensorFlow and Keras saved models
+saved_model/
+*.h5
+*.pb
